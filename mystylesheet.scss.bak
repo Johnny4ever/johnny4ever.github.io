@@ -1,0 +1,3 @@
+@import "./header/header";
+@import "./jumbotron/jumbotron";
+@import "./thumbnail/thumbnail";

@@ -1,0 +1,37 @@
+.container .row .col-sm-4 {
+  color: deepskyblue; }
+.container .row .col-sm-8 .col-sm-2 {
+  border: 1px solid black;
+  border-radius: 10px;
+  Margin-top: 20px;
+  font-size: 1em;
+  padding: 10px;
+  margin-left: 20px;
+  text-align: center;
+  font-family: Cursive;
+  float: right; }
+
+.btn.btn_secondary {
+  border: 1px solid black;
+  background: rgba(254, 254, 100, 0.5); }
+
+.jumbotron {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg");
+  background-size: cover;
+  text-shadow: 1px 1px #000000;
+  display: flex;
+  align-item: center; }
+
+.container .row img {
+  padding: 20px;
+  width: 100%; }
+
+footer ul {
+  display: flex;
+  flex-flow: row nowrap;
+  list-style: none; }
+  footer ul li img {
+    width: 32px;
+    height: 32px; }
+
+/*# sourceMappingURL=mystylesheet.css.map */

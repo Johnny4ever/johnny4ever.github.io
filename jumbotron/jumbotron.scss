@@ -1,0 +1,38 @@
+.btn.btn_secondary{
+	border:1px solid black;
+	background: rgba(254,254,100,.5);
+
+}
+
+
+
+.jumbotron{
+	background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+	background-size:cover;
+	text-shadow: 1px 1px #000000;
+	display:flex;
+	align-item:center;
+}
+
+.container .row  img{
+	padding: 20px;
+	width:100%;
+	
+}
+
+footer {
+
+
+	ul {
+			display:flex;
+			flex-flow: row nowrap;
+		  list-style: none;
+		  li{
+		  img{
+		  width: 32px;
+		  height: 32px;
+		  }
+		  }
+}
+}
+
